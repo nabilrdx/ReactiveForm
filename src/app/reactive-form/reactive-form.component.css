@@ -1,0 +1,10 @@
+.form-wrapper {
+    padding: 20px;
+    border: 1px solid silver;
+    border-radius: 10px;
+    /* margin: 5px; */
+}
+
+.form-group {
+    margin: 5px;
+}
